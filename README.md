@@ -1,3 +1,5 @@
+![Rent Collector preview](assets/preview.png)
+
 # Rent Collector
 
 Property management and rent collection for landlords — as a progressive web app

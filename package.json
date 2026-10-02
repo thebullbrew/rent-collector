@@ -1,0 +1,1 @@
+{"author":"","dependencies":{"@capacitor/cli":"^6.1.2","@capacitor/core":"^6.1.2","@capacitor/ios":"^6.1.2"},"description":"Rent Collector — property management and rent collection PWA + iOS app","keywords":[],"license":"UNLICENSED","main":"index.js","name":"rent-collector","scripts":{"test":"node /tmp/rctest.js"},"version":"1.0.0"}
